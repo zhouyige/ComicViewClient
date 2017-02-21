@@ -1,0 +1,12 @@
+F:\Dr.Zhou\VS2010工程\C#\工程实践\ComicViewClient\ComicViewClient\bin\Release\ComicViewClient.exe.config
+F:\Dr.Zhou\VS2010工程\C#\工程实践\ComicViewClient\ComicViewClient\bin\Release\ComicViewClient.exe
+F:\Dr.Zhou\VS2010工程\C#\工程实践\ComicViewClient\ComicViewClient\bin\Release\ComicViewClient.pdb
+F:\Dr.Zhou\VS2010工程\C#\工程实践\ComicViewClient\ComicViewClient\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Dr.Zhou\VS2010工程\C#\工程实践\ComicViewClient\ComicViewClient\obj\x86\Release\ComicViewClient.ComicEditForm.resources
+F:\Dr.Zhou\VS2010工程\C#\工程实践\ComicViewClient\ComicViewClient\obj\x86\Release\ComicViewClient.ComicViewForm.resources
+F:\Dr.Zhou\VS2010工程\C#\工程实践\ComicViewClient\ComicViewClient\obj\x86\Release\ComicViewClient.mainForm.resources
+F:\Dr.Zhou\VS2010工程\C#\工程实践\ComicViewClient\ComicViewClient\obj\x86\Release\ComicViewClient.Properties.Resources.resources
+F:\Dr.Zhou\VS2010工程\C#\工程实践\ComicViewClient\ComicViewClient\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Dr.Zhou\VS2010工程\C#\工程实践\ComicViewClient\ComicViewClient\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Dr.Zhou\VS2010工程\C#\工程实践\ComicViewClient\ComicViewClient\obj\x86\Release\ComicViewClient.exe
+F:\Dr.Zhou\VS2010工程\C#\工程实践\ComicViewClient\ComicViewClient\obj\x86\Release\ComicViewClient.pdb

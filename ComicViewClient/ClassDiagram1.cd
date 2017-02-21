@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ComicViewClient.UserControlButton1">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="ComicViewClient.UserControlButton1.State" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UserControlButton1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="ComicViewClient.UserControlButton1.Style" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UserControlButton1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AwQAIQAARCCMAAQwQACQAABGCZECATgCgQQEB0BEuJA=</HashCode>
+      <FileName>UserControlButton1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
